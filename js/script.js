@@ -34,9 +34,9 @@ sendButton[0].addEventListener("click", function(event){
 
 var i = 0
 const images = [
-    "gambar/geblek-pari-view-menoreh.jpg", 
-    "gambar/fahrul-razi-XJsaic_WLwg-unsplash.jpg", 
-    "gambar/naufal-ardi-santoso-DVgIwpGVNJA-unsplash.jpg"
+    "assets/geblek-pari-view-menoreh.jpg", 
+    "assets/fahrul-razi-XJsaic_WLwg-unsplash.jpg", 
+    "assets/naufal-ardi-santoso-DVgIwpGVNJA-unsplash.jpg"
 ]
 function bannerSlide() {
     i += 1
