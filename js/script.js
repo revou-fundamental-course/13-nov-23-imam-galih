@@ -45,4 +45,4 @@ function bannerSlide() {
     }
     imageSlider.src = images [i]
 }
-setInterval(bannerSlide, 2000)
+setInterval(bannerSlide, 3000)
